@@ -2,7 +2,7 @@
 # Date: 10/7/2020
 # Description: Ask the user for five numbers, then give them an average
 
-print("Please enter five numbers")
+print("Please enter five numbers.")
 num1 = float(input())
 num2 = float(input())
 num3 = float(input())
